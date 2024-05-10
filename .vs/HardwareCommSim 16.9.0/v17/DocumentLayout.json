@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\callu\\source\\repos\\HardwareCommSim 16.9.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD42247-635E-4C40-A9E0-32991B6E71FC}|HardwareCommSim 16.9.0.vbproj|c:\\users\\callu\\source\\repos\\hardwarecommsim 16.9.0\\hardwarecommsim.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9CD42247-635E-4C40-A9E0-32991B6E71FC}|HardwareCommSim 16.9.0.vbproj|solutionrelative:hardwarecommsim.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD42247-635E-4C40-A9E0-32991B6E71FC}|HardwareCommSim 16.9.0.vbproj|c:\\users\\callu\\source\\repos\\hardwarecommsim 16.9.0\\hardwarecommsim.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9CD42247-635E-4C40-A9E0-32991B6E71FC}|HardwareCommSim 16.9.0.vbproj|solutionrelative:hardwarecommsim.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HardwareCommSim.vb",
+              "DocumentMoniker": "C:\\Users\\callu\\source\\repos\\HardwareCommSim 16.9.0\\HardwareCommSim.vb",
+              "RelativeDocumentMoniker": "HardwareCommSim.vb",
+              "ToolTip": "C:\\Users\\callu\\source\\repos\\HardwareCommSim 16.9.0\\HardwareCommSim.vb",
+              "RelativeToolTip": "HardwareCommSim.vb",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAiwF0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T22:41:03.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HardwareCommSim.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\callu\\source\\repos\\HardwareCommSim 16.9.0\\HardwareCommSim.vb",
+              "RelativeDocumentMoniker": "HardwareCommSim.vb",
+              "ToolTip": "C:\\Users\\callu\\source\\repos\\HardwareCommSim 16.9.0\\HardwareCommSim.vb [Design]",
+              "RelativeToolTip": "HardwareCommSim.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T22:37:27.472Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

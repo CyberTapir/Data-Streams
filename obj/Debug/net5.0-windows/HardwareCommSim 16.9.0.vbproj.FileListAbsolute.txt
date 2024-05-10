@@ -1,0 +1,35 @@
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.vbprojAssemblyReference.cache
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim_16._9._0.HardwareCommSim.resources
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.vbproj.GenerateResource.cache
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.AssemblyInfoInputs.cache
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.AssemblyInfo.vb
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.vbproj.CoreCompileInputs.cache
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.exe
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.deps.json
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.runtimeconfig.json
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.runtimeconfig.dev.json
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.dll
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\ref\HardwareCommSim 16.9.0.dll
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.pdb
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.dll
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\ref\HardwareCommSim 16.9.0.dll
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.pdb
+C:\Users\sithu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.genruntimeconfig.cache
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.exe
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.deps.json
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.runtimeconfig.json
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.runtimeconfig.dev.json
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.dll
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.pdb
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim_16._9._0.HardwareCommSim.resources
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.vbproj.GenerateResource.cache
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.AssemblyInfoInputs.cache
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.AssemblyInfo.vb
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.vbproj.CoreCompileInputs.cache
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.dll
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\refint\HardwareCommSim 16.9.0.dll
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.pdb
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.genruntimeconfig.cache
+C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\ref\HardwareCommSim 16.9.0.dll
