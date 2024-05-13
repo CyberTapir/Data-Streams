@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HardwareCommSim_16._9._0
-build_property.ProjectDir = C:\Users\callu\source\repos\HardwareCommSim 16.9.0\
+build_property.ProjectDir = \\Mac\Home\Documents\GitHub\Data-Streams\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

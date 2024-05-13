@@ -33,3 +33,21 @@ C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\refi
 C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.pdb
 C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.genruntimeconfig.cache
 C:\Users\callu\source\repos\HardwareCommSim 16.9.0\obj\Debug\net5.0-windows\ref\HardwareCommSim 16.9.0.dll
+\\Mac\Home\Documents\GitHub\Data-Streams\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.exe
+\\Mac\Home\Documents\GitHub\Data-Streams\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.deps.json
+\\Mac\Home\Documents\GitHub\Data-Streams\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\Data-Streams\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.runtimeconfig.dev.json
+\\Mac\Home\Documents\GitHub\Data-Streams\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.dll
+\\Mac\Home\Documents\GitHub\Data-Streams\bin\Debug\net5.0-windows\HardwareCommSim 16.9.0.pdb
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\HardwareCommSim_16._9._0.HardwareCommSim.resources
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.vbproj.GenerateResource.cache
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.AssemblyInfo.vb
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.sourcelink.json
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.dll
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\refint\HardwareCommSim 16.9.0.dll
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.pdb
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\HardwareCommSim 16.9.0.genruntimeconfig.cache
+\\Mac\Home\Documents\GitHub\Data-Streams\obj\Debug\net5.0-windows\ref\HardwareCommSim 16.9.0.dll

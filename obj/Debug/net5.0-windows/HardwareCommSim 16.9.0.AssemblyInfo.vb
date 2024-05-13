@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("HardwareCommSim 16.9.0"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c179d61e1b8499affa0ef2b57b9d4689db2b56f5"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("HardwareCommSim 16.9.0"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("HardwareCommSim 16.9.0"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

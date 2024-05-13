@@ -1,6 +1,6 @@
 ﻿Public Class HardwareCommSim
 
-    Public Function ConvertDecimalToBinary(ByVal Value As String, Optional ByVal x As Integer = 0) As String
+    Public Function ConvertDecimalToBinary(ByVal Value As String, Optional ByVal x As Integer = 0, Optional y As Integer = 7) As String
         Dim iVal#, temp#, ret%, i%, Str$
         Dim BinVal%()
 
@@ -37,6 +37,11 @@
                     Str = "0" + Str
             End Select
         End If
+
+        While Len(Str) < y
+            Str = "0" & Str
+        End While
+
         ConvertDecimalToBinary = Str
 
     End Function
@@ -98,6 +103,7 @@
                         '20pt font size
                         txtData.Font = New Font(txtData.Font.FontFamily, 20)
                 End Select
+
                 For i = 0 To len - 1
                     Dim data As String ' first 7 bits
                     Dim decimalVal As Integer
@@ -107,10 +113,47 @@
                     outString = outString & Chr(decimalVal)
                     txtData.Text = outString
                 Next i
+            Else
+                notValid()
             End If
+        Else
+            notValid()
         End If
     End Sub
     Private Sub btnEnd_Click(sender As Object, e As EventArgs) Handles btnEnd.Click
-        Me.Close()
+        ''' reencode 
+        Dim final As String
+        Dim crc As Integer
+        Dim body As String
+        final = "101"
+        Dim len As String
+        len = CStr(txtData.Text.Length)
+        Dim binaryLen As String
+        binaryLen = ConvertDecimalToBinary(len, 0, 5)
+        final = final & binaryLen
+        'formatting
+        final = final & txtFormat.Text
+        body = txtFormat.Text
+        ' encode message
+        For i = 0 To txtData.Text.Length - 1
+            Dim chr As Integer
+            Dim binChr As String
+            chr = Asc(txtData.Text(i))
+            binChr = ConvertDecimalToBinary(chr, 0, 7)
+            final = final & binChr
+            body = body & binChr
+        Next i
+        For i = 0 To body.Length - 1
+            If body(i) = "1" Then
+                crc = crc + 1
+            End If
+        Next i
+        crc = crc Mod 13
+        final = final & ConvertDecimalToBinary(crc, 0, 4) & "1101"
+        txtInput.Text = final
+    End Sub
+
+    Private Sub notValid()
+        txtData.Text = "Not Valid"
     End Sub
 End Class

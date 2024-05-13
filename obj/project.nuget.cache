@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rB5vRSi3uQP2rBC6BEFdk2O4qK68qX/Q9XTgEEfD+qqcD1EtXSdeEPcRTuITPYTyqgkxSYSE6ZgHCd4JTMHgsg==",
+  "dgSpecHash": "QBBy9/yDwYe4yi40vHswzYPyqmhlbis55++SToRu8VgoMAoIKhGrjREHm+UtJB+er8LTD0O890tGbtSMQyRPGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\callu\\source\\repos\\HardwareCommSim 16.9.0\\HardwareCommSim 16.9.0.vbproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\callu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\callu\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\callu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\callu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\GitHub\\Data-Streams\\HardwareCommSim 16.9.0.vbproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

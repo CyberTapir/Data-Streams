@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\callu\\source\\repos\\HardwareCommSim 16.9.0\\HardwareCommSim 16.9.0.vbproj": {}
+    "\\\\Mac\\Home\\Documents\\GitHub\\Data-Streams\\HardwareCommSim 16.9.0.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\callu\\source\\repos\\HardwareCommSim 16.9.0\\HardwareCommSim 16.9.0.vbproj": {
+    "\\\\Mac\\Home\\Documents\\GitHub\\Data-Streams\\HardwareCommSim 16.9.0.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\callu\\source\\repos\\HardwareCommSim 16.9.0\\HardwareCommSim 16.9.0.vbproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\Data-Streams\\HardwareCommSim 16.9.0.vbproj",
         "projectName": "HardwareCommSim 16.9.0",
-        "projectPath": "C:\\Users\\callu\\source\\repos\\HardwareCommSim 16.9.0\\HardwareCommSim 16.9.0.vbproj",
-        "packagesPath": "C:\\Users\\callu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\callu\\source\\repos\\HardwareCommSim 16.9.0\\obj\\",
+        "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\Data-Streams\\HardwareCommSim 16.9.0.vbproj",
+        "packagesPath": "C:\\Users\\callumbennett\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\Data-Streams\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\callu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\callumbennett\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,24 +55,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -81,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
